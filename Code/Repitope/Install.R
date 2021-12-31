@@ -12,5 +12,4 @@ BiocManager::install("msa")
 BiocManager::install("S4Vectors")
 BiocManager::install("GenomeInfoDbData")
 devtools::install_github("masato-ogishi/Repitope", force=T)
-ins
 
